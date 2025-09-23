@@ -48,11 +48,9 @@ I'm passionate about creating innovative solutions through code and exploring th
 
 Here are some of my notable projects:
 
-- **[Project Name 1](link)** - Brief description of what this project does
-- **[Project Name 2](link)** - Brief description of what this project does
-- **[Project Name 3](link)** - Brief description of what this project does
+- **[A Tourism Company  WebApplication](http://www.gatesofzanzibarsafaris.com/)** - A web based application aiding in enhancing tourists attractions in East Africa 
 
-*(Replace these with your actual projects and their descriptions)*
+
 
 ---
 
@@ -69,10 +67,9 @@ Here are some of my notable projects:
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:martinsanga230@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourprofile)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourprofile)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://yourportfolio.com)
 
-*(Add your actual social media links)*
+
 
 ---
 
