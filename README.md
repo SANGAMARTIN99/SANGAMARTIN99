@@ -30,7 +30,7 @@ I'm passionate about creating innovative solutions through code and exploring th
 
 ---
 
-## 📈 GitHub Analytics
+
 
 <!-- <div align="center">
   
