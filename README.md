@@ -75,7 +75,7 @@ Here are some of my notable projects:
 
 ---
 
-## ✨ Fun Facts
+## ✨Some Facts About Me ...
 
 - 🎵 I enjoy listening to Spotify music while coding
 - 🌍 I'm passionate about using technology to solve real-world problems
