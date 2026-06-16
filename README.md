@@ -32,7 +32,7 @@ I'm passionate about creating innovative solutions through code and exploring th
 
 ## 📈 GitHub Analytics
 
-<div align="center">
+<!-- <div align="center">
   
 ![Martin's GitHub stats](https://github-readme-stats.vercel.app/api?username=SANGAMARTIN99&show_icons=true&theme=radical&count_private=true)
   
@@ -40,7 +40,7 @@ I'm passionate about creating innovative solutions through code and exploring th
   
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SANGAMARTIN99&theme=radical)
   
-</div>
+</div> -->
 
 ---
 
@@ -48,7 +48,9 @@ I'm passionate about creating innovative solutions through code and exploring th
 
 Here are some of my notable projects:
 
-- **[A Tourism Company  WebApplication](http://www.gatesofzanzibarsafaris.com/)** - A web based application aiding in enhancing tourists attractions in East Africa 
+- **[A Tourism Company  WebApplication](http://www.gatesofzanzibarsafaris.com/)** - A web based application aiding in enhancing tourists attractions in East Africa
+-   [Aegivara Chrome-Extension](https://aegis.tarxemo.com/)** - A chrome Based Extension with a linked React Front end for remotely monitoring of Browsers from various distinctly located devices. 
+-   [BodaKitaa - Bodaboda Application ](https://bodaboda.tarxemo.com/)** - An Application for monitoring The Bodaboda Business together with Managing Rides requests  similar to Bolt working mechanism. 
 
 
 
@@ -59,15 +61,15 @@ Here are some of my notable projects:
 - Advanced Machine Learning algorithms
 - Microservices architecture
 - Cloud computing (AWS/Azure)
-- Software design patterns
+- Software Deployment
 
 ---
 
 ## 📫 Let's Connect
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:martinsanga230@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourprofile)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://yourportfolio.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/martin-sanga-93897b299)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://martin-dev-g4of.onrender.com/)
 
 
 
@@ -75,10 +77,10 @@ Here are some of my notable projects:
 
 ## ✨ Fun Facts
 
-- 🎵 I enjoy listening to music while coding
+- 🎵 I enjoy listening to Spotify music while coding
 - 🌍 I'm passionate about using technology to solve real-world problems
 - 📚 I believe in continuous learning and improvement
-- ⚡ Fun fact: I can solve a Rubik's cube in under 2 minutes!
+- ⚡ I am Currently Learning Spanish, mucho Gracias. 
 
 ---
 
