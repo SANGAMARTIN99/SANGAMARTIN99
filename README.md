@@ -50,7 +50,7 @@ Here are some of my notable projects:
 
 - **[A Tourism Company  WebApplication](http://www.gatesofzanzibarsafaris.com/)** - A web based application aiding in enhancing tourists attractions in East Africa
 -   [Aegivara Chrome-Extension](https://aegis.tarxemo.com/)** - A chrome Based Extension with a linked React Front end for remotely monitoring of Browsers from various distinctly located devices. 
--   [BodaKitaa - Bodaboda Application ](https://bodaboda.tarxemo.com/)** - An Application for monitoring The Bodaboda Business together with Managing Rides requests  similar to Bolt working mechanism. 
+-   [BodaKitaa - Bodaboda Application ](https://bodaboda.tarxemo.com/)** - A Web Based  Application for monitoring The Bodaboda Business together with Managing Rides requests  similar to Bolt working mechanism. 
 
 
 
