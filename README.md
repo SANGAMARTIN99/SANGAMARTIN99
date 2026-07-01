@@ -1,4 +1,4 @@
-# 👋 Holla, I'm Martin Stephano Sanga (Martin.Dev)
+# 👋 Hella, I'm Martin Stephano Sanga (Martin.Dev)
 
 
 🎓 Software Engineering Student | 🤖 AI & ML Enthusiast | 💻 Full-Stack Developer
